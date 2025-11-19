@@ -14,7 +14,7 @@ I made this board to showcase what I already know, and to learn a lot of new thi
 (Pictures of the built version will be added once I get all the components and solder what needs to be soldered, for the most part this is PCBA though.)
 ## Built Version
 <img width="3024" height="4032" alt="IMG_2698 (1)" src="https://github.com/user-attachments/assets/e0d0c415-4238-449c-9a41-b86ec6cffeb9" />
-![IMG_2696](https://github.com/user-attachments/assets/23b462ee-9643-472f-b763-d08a6befb830)
+<img width="3024" height="4032" alt=IMG_2696 (1)" src="https://github.com/user-attachments/assets/23b462ee-9643-472f-b763-d08a6befb830" />
 YouTube video:
 https://youtube.com/shorts/MNF5oHFGBZw?feature=share
 
